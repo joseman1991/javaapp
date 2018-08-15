@@ -10,6 +10,15 @@ package pg2;
  * @author JOSE
  */
 public class NewClass {
- private String mensaje;
-    
+
+    private String mensaje;
+
+    public String getMensaje() {
+        return mensaje;
+    }
+
+    public void setMensaje(String mensaje) {
+        this.mensaje = mensaje;
+    }
+
 }
