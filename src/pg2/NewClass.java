@@ -10,5 +10,6 @@ package pg2;
  * @author JOSE
  */
 public class NewClass {
+ private String mensaje;
     
 }
